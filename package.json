@@ -1,0 +1,24 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "Typescript 공부해보기",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesome-sh/typescript-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesome-sh/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/awesome-sh/typescript-practice#readme"
+}
